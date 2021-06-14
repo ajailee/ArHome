@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/git/arcore_flutter_plugin-f0a19572459379b240dbaec842c04b3baf5039e5/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.4/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.4+1/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.3/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_crashlytics-0.2.4/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-5.2.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_android-0.8.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.9/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

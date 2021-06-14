@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "980495462143",
+    "project_id": "aj-ar-c7b91",
+    "storage_bucket": "aj-ar-c7b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980495462143:android:90eed74d2add2b88f266ca",
+        "android_client_info": {
+          "package_name": "com.hdmdmi.aj_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980495462143-r7v1v3n5nctdl1mqldnr6n85ect50ufp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hdmdmi.aj_ar",
+            "certificate_hash": "c6d5d02aebbe0f9c719ae0fc67028464302e63f2"
+          }
+        },
+        {
+          "client_id": "980495462143-unugmgdfb2a2rkltuj7u9ccdqsu8nh68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hdmdmi.aj_ar",
+            "certificate_hash": "e5c6855354ae35cd789e1de7ff18b61a6c23ca9f"
+          }
+        },
+        {
+          "client_id": "980495462143-odutls5pu5hhs7hnb96hop30u9m2528n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfisvo0Iopkwvkzr-RCz-14sLAM5gvASo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980495462143-odutls5pu5hhs7hnb96hop30u9m2528n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
